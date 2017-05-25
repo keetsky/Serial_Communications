@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/testserial.dir/main.o  -o testserial -rdynamic 

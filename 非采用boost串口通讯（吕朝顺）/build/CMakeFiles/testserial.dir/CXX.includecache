@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/keetsky/Desktop/testSerial/main.cpp
+stdio.h
+-
+string.h
+-
+malloc.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+unistd.h
+-
+termios.h
+-
+math.h
+/home/keetsky/Desktop/testSerial/math.h
+stdlib.h
+-
+
